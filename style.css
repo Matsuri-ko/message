@@ -1,0 +1,11 @@
+body {
+  background-attachment: fixed;
+  background-color:#fbe4ea;
+}
+img{
+  width:100%;
+}
+/*余白のリセット*/
+*{
+  margin:0;
+}
